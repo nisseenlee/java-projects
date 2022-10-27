@@ -1,0 +1,46 @@
+# SVN
+.svn
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+
+# Intellij
+.idea/
+idea-compile
+*.iml
+*.iws
+*.ipr
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Node Grunt Bower Yarn
+node/
+node_modules/
+target-grunt/
+yarn.lock
+yarn-error.log
+
+.metadata/
+/.recommenders/
+apps/energy/power-app/src/baf-instances.zip
+apps/energy/power-app/src/baf-configuration/baf-configuration.zip
+.sonarlint/
+bower_components/
+
+apps/energy/balancing-appsrc/main/pages/layouts/dashboard_logisticagroup_LogisticaPage/less/layout.css
+
+build/
+dist/
+*.egg-info/
+ENV/
